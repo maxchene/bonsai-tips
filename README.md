@@ -14,14 +14,14 @@
 
 Organique : [Fraissinet Guanor 7-6-8](https://www.comptoirdesjardins.fr/produits-de-jardin/engrais-fertilisants/potager/guanor-super-pro-25-kg.html)
 
-Chimique: [Fertil' océan](https://fertil-ocean.fr/boutique-en-ligne)
+Chimique: [Fertil' océan 3-4,5-4,5](https://fertil-ocean.fr/boutique-en-ligne)
 
 Stimulant
 racinaire : [Fraissinet Osiryl](https://www.comptoirdesjardins.fr/produits-de-jardin/engrais-fertilisants/bouturage/stimulants-racinaires/stimulateur-croissance-racinaire-professionnel-1-litre.html)
 
 ## Traitement nuisibles et maladies
 
-Pulvériser liquide à jin, une fois en décembre et une fois en février.
+Pulvériser [liquide à jin](https://irunbonsai.com/inicio/543-liquido-de-jin-500-ml-5407013560029.html), une fois en décembre et une fois en février.
 Attention à protéger le substrat avec un vieux linge pour ne pas qu'il absorbe le mélange.
 
 | Espèce    | Dosage liquide à jin en pulvérisation |
