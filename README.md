@@ -31,7 +31,7 @@ mélange.
 | Espèce    | Dosage liquide à jin en pulvérisation |
 |-----------|---------------------------------------|
 | Feuillus  | 33mL par Litre                        |
-| Conifères | 2àML par Litre                        |
+| Conifères | 20mL par Litre                        |
 
 ## Pots de culture
 
