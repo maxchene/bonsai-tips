@@ -2,14 +2,15 @@
 
 ## Rempotage
 
-| Espèce     | Pouzzolane | Pomice | Akadama | Kanuma |
-|------------|------------|----|---------|--------|
-| Feuillus   | 20%        | 40% | 30%     | 10%    |
-| Genévriers |            | 60% | 40%     |        |
-| Azalées    |            |    |         | 100%   |
-| Pins       |            | 100% |         |        |
-| Ficus      |20%           | 30% |  50%       |        |
-| Olivier    |10%           | 60% | 30%       |        |
+| Espèce                  | Pouzzolane | Pomice | Akadama | Kanuma |
+|-------------------------|------------|--------|---------|--------|
+| Feuillus                | 20%        | 40%    | 30%     | 10%    |
+| Genévriers              |            | 60%    | 40%     |        |
+| Azalées                 |            |        |         | 100%   |
+| Pins                    |            | 100%   |         |        |
+| Ficus                   |20%           | 30%    | 50%     |        |
+| Olivier                 |10%           | 60%    | 30%     |        |
+| Portulacaria / Crassula |          | 50%    | 50%     |        |
 
 ## Engrais
 
