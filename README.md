@@ -34,6 +34,11 @@ mélange.
 | Feuillus  | 33mL par Litre                        |
 | Conifères | 20mL par Litre                        |
 
+### Aliette
+
+Fongicide contre mildiou / verticiliose
+[Aliette WG](https://www.agrar.bayer.ch/fr-CH/Produkte/Pflanzenschutzmittel/Aliette%20WG)
+
 ## Pots de culture
 
 [Pot tokoname terre cuite](https://irunbonsai.com/inicio/226-613-maceta-entrenamiento-tokoname-n45-7900000000511.html#/394-macetas_tokoname_entrenamiento-n3_o94_x_43_cm)
