@@ -45,4 +45,4 @@ Fongicide contre mildiou / verticiliose
 
 ## Culture azalée
 
-1/3 [https://jardinjasmin.com/product/substrat-a-bonsai-ecorce-pin-composte/](écorce de pin compostée) + 1/3 tourbe + 1/3 fibre de coco
+1/3 [écorce de pin compostée](https://jardinjasmin.com/product/substrat-a-bonsai-ecorce-pin-composte/) + 1/3 tourbe + 1/3 fibre de coco
