@@ -42,3 +42,7 @@ Fongicide contre mildiou / verticiliose
 ## Pots de culture
 
 [Pot tokoname terre cuite](https://irunbonsai.com/inicio/226-613-maceta-entrenamiento-tokoname-n45-7900000000511.html#/394-macetas_tokoname_entrenamiento-n3_o94_x_43_cm)
+
+## Culture azalée
+
+1/3 (écorce)[https://jardinjasmin.com/product/substrat-a-bonsai-ecorce-pin-composte/] + 1/3 tourbe + 1/3 fibre de coco
